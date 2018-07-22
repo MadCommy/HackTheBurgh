@@ -1,4 +1,4 @@
-# HackTheBurgh
+# HackTheBurgh 2017
 
 Hack The Burgh 2017 24-hour hackathon entry.
 
